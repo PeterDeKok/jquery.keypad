@@ -1,5 +1,5 @@
 # jquery.keypad
-Simple HTML, CSS, jQuery keypad.
+Simple HTML, CSS and jQuery keypad.
 
 # Install
 1. jQuery.keypad uses jQuery. Include the latest version in you project to use jQuery.keypad
