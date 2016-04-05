@@ -4,11 +4,10 @@ Simple HTML, CSS and jQuery keypad.
 # Install
 1. jQuery.keypad uses jQuery. Include the latest version in you project to use jQuery.keypad
 2. Include both the js and css files.
-3. Use the inline method
+3. Use this inline method to initialize the keypad.
 ```jQuery
 $('#elementId').keypad();
 ```
-  to initialize the keypad.
 
 # Features
 ## Form elements
